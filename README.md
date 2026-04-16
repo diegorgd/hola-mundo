@@ -1,4 +1,4 @@
-include <iostream>
+#include <iostream>
 using namespace std; 
 int main()
 {
@@ -12,5 +12,5 @@ quetzal = pesos / tipocambio;
 cout<<"equivalente en quetzal: " << quetzal << endl;
 
 
-}    return 0;#
-
+     return 0;
+}
