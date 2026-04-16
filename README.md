@@ -1,6 +1,7 @@
 # hola-mundo
 este repositorio es para praticar el flujo de github en implementa software de sistemas informaticos
 soy angel ronaldo rubio guillen, me gusta jugar basquetball, futbol y ver videos
+
 #include <iostream>
 using namespace std;
 int main()
